@@ -133,6 +133,17 @@ CGPA: 8.0/10 · 2023 – 2027 (Currently Pursuing)
 
 ---
 
+## 〔 08.5 〕 QUOTE OF THE DAY
+
+<!-- QUOTE:START -->
+> 💬 *"Stay hungry, stay foolish."*
+> — **Steve Jobs**
+<!-- QUOTE:END -->
+
+*(auto-updates daily via GitHub Actions)*
+
+---
+
 ## 〔 09 〕 LET'S CONNECT
 
 <p align="center">
