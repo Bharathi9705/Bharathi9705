@@ -192,21 +192,6 @@ CGPA: 8.0/10 · 2023 – 2027 (Currently Pursuing)
 
 ## 〔 09 〕 LET'S CONNECT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharathi-a-91543b290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://bharathi9705.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BharathiArumugam" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center"><i>⭐ Star my repos if you find them useful — let's build something great together!</i></p>
 
 <p align="center">&lt; coded with ❤️ by Bharathi A /&gt;</p>
