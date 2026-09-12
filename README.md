@@ -112,10 +112,7 @@ Raspberry Pi 5 network failover system using TOPSIS scoring and LSTM-based failu
 ## 〔 07 〕 EDUCATION
 
 🏛️ **B.E. Electronics and Communication Engineering** — Sri Krishna College of Engineering and Technology
-CGPA: 8.0/10 · 2023 – 2027
-
-📚 **Higher Secondary Education** — Govt Girls Higher Secondary School
-83%
+CGPA: 8.0/10 · 2023 – 2027 (Currently Pursuing)
 
 ---
 
