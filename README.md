@@ -53,6 +53,8 @@
 **🌐 Hosting & Deployment**
 <br>
 <img src="https://skillicons.dev/icons?i=vercel,render" />
+<br>
+<sub>+ GitHub Pages (portfolio & Flowt frontend)</sub>
 
 **🤖 AI & Emerging Tech**
 <br>
