@@ -1,10 +1,15 @@
-👋 Hi there, I'm Bharathi A
-🎓 Final-Year ECE Student | 💻 Full-Stack Developer | 🤖 AI-Integrated Web Apps | 🌐 Coimbatore, India
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20👋,%20I'm%20Bharathi&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
+<h3 align="center">Final-Year ECE Student · Full-Stack Developer · Exploring AI-Integrated Apps</h3>
+
+---
 
 ### 🚀 About Me
-I'm a final-year Electronics and Communication Engineering student at Sri Krishna College of Engineering and Technology, Coimbatore.
-Passionate about **Full-Stack Development** and **AI-Integrated Applications**, I enjoy building scalable web platforms, RESTful APIs, and generative-AI-powered tools.
-I'm proficient in Java, C++, Python, and SQL, with hands-on experience across React/Next.js, Flask, FastAPI, Node.js, and Firebase.
+- 🎓 Final-year Electronics and Communication Engineering student, Coimbatore
+- 💻 Learning and building full-stack web apps with React/Next.js, Flask, FastAPI, Node.js, and Firebase
+- 🤖 Curious about Generative AI and exploring how to integrate LLMs into real projects
+- 🌱 Always picking up something new — currently sharpening DSA and system design basics
+- 🤝 Open to full-stack developer / software engineer opportunities
 
 ---
 
