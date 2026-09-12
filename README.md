@@ -28,7 +28,7 @@
 
 **🟦 Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,c" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 
 **🎨 Frontend**
 <br>
@@ -48,7 +48,7 @@
 
 **💻 IDEs & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 **🌐 Hosting & Deployment**
 <br>
