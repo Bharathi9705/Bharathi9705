@@ -98,13 +98,13 @@ I'm proficient in Java, C++, Python, and SQL, with hands-on experience across Re
   <a href="https://www.linkedin.com/in/bharathi-a-91543b290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bharathi9705.github.io/Myportfolio" target="_blank">
+  <a href="https://bharathi9705.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/BharathiArumugam" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:bharathi20061882@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
