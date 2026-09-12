@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=BHARATHI%20A&fontSize=60&fontColor=FFD700&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Developer&descAlignY=75&descSize=18&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=BHARATHI%20A&fontSize=60&fontColor=87CEEB&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Developer&descAlignY=75&descSize=18&animation=twinkling)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Learning+Full-Stack+%26+AI+Development" alt="Typing SVG" />
