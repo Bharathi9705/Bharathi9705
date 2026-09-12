@@ -1,15 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20👋,%20I'm%20Bharathi&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=BHARATHI%20A&fontSize=60&fontColor=ffffff&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Developer&descAlignY=75&descSize=18&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Aspiring+Full-Stack+Developer;Aspiring+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Learning+Full-Stack+%26+AI+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/bharathi-a-91543b290">LinkedIn</a> ·
-  <a href="https://github.com/Bharathi9705">GitHub</a> ·
-  <a href="https://leetcode.com/u/BharathiArumugam">LeetCode</a> ·
-  <a href="https://bharathi9705.github.io/">Portfolio</a>
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20ENTRY--LEVEL%20ROLES-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=PROFILE%20VIEWS&color=808080&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bharathi-a-91543b290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bharathi9705">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/BharathiArumugam">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://bharathi9705.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -17,6 +32,12 @@
 ## 〔 01 〕 ABOUT ME
 
 ### 👨‍💻 Who Am I?
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Coimbatore,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_College-SKCET-9146FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_CGPA-8.0%2F10-success?style=flat-square" />
+</p>
 
 - 🎓 Final-year Electronics and Communication Engineering student, Coimbatore
 - 💻 Learning and building full-stack web apps with React/Next.js, Flask, FastAPI, Node.js, and Firebase
