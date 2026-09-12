@@ -16,11 +16,25 @@
 
 ## 〔 01 〕 ABOUT ME
 
+### 👨‍💻 Who Am I?
+
 - 🎓 Final-year Electronics and Communication Engineering student, Coimbatore
 - 💻 Learning and building full-stack web apps with React/Next.js, Flask, FastAPI, Node.js, and Firebase
 - 🤖 Curious about Generative AI and exploring how to integrate LLMs into real projects
 - 🌱 Always picking up something new — currently sharpening DSA and system design basics
 - 🤝 Open to full-stack developer / software engineer opportunities
+
+### 🌐 Quick Info
+
+| | |
+|---|---|
+| 💼 | Aspiring Full-Stack Developer |
+| 🤖 | AI & ML Enthusiast |
+| 🌱 | Learning every day |
+| 📜 | 3 Certifications (Cisco, Infosys, NPTEL) |
+| 🔥 | Thiranex Full-Stack Intern Alumni |
+| 📧 | bharathi20061882@gmail.com |
+| 🔗 | [bharathi9705.github.io](https://bharathi9705.github.io/) |
 
 ---
 
@@ -59,6 +73,15 @@
 **🤖 AI & Emerging Tech**
 <br>
 Groq LLaMA · Pollinations AI · TOPSIS & LSTM-based Prediction
+
+---
+
+## 〔 02.5 〕 WHAT I'M FOCUSED ON
+
+| | | |
+|:---:|:---:|:---:|
+| 🌐<br>**Full-Stack Web Development** | 🤖<br>**Generative AI & LLM Integration** | 🔌<br>**Embedded Systems & IoT** |
+| 🗄️<br>**RESTful API Design** | 📊<br>**Data Structures & Algorithms** | 🚀<br>**Continuous Learning & Growth** |
 
 ---
 
@@ -163,4 +186,6 @@ CGPA: 8.0/10 · 2023 – 2027 (Currently Pursuing)
   </a>
 </p>
 
-<p align="center"><i>⭐ Always open to collaborating on Full-Stack, AI-Integrated, or IoT projects — let's build something great together!</i></p>
+<p align="center"><i>⭐ Star my repos if you find them useful — let's build something great together!</i></p>
+
+<p align="center">&lt; coded with ❤️ by Bharathi A /&gt;</p>
