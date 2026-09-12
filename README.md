@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20👋,%20I'm%20Bharathi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Full-Stack+Developer;Exploring+AI-Integrated+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Aspiring+Full-Stack+Developer;Aspiring+AI+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
