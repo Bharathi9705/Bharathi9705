@@ -281,7 +281,7 @@ Coimbatore
 <p align="center">
 
 <!-- QUOTE:START -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=120&text=%E2%9D%9D%20Stay%20hungry%2C%20stay%20foolish.%20%E2%9D%9E&fontSize=18&fontColor=ffffff&desc=%E2%80%94%20Steve%20Jobs&descSize=14&descAlignY=80" alt="Quote of the Day" />
+<img src="assets/quote-card.svg" alt="Quote of the Day" width="700" />
 <!-- QUOTE:END -->
 
 </p>
