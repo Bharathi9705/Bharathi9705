@@ -64,14 +64,39 @@ SKCET · 2023 – 2027
 ## 〔 02 〕 TECH ARSENAL
 
 <table>
-<tr><td width="20%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,python,js" /> <sub>+ SQL</sub></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /></td></tr>
-<tr><td><b>Tools & Deployment</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" /> <sub>+ GitHub Pages</sub></td></tr>
-<tr><td><b>IoT / Embedded</b></td><td><img src="https://skillicons.dev/icons?i=raspberrypi" /> <sub>+ ESP32</sub></td></tr>
-<tr><td><b>AI / Intelligent Systems</b></td><td><img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Pollinations_AI-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/TOPSIS-0EA5E9?style=flat-square" /> <img src="https://img.shields.io/badge/LSTM-EF4444?style=flat-square" /></td></tr>
+<tr>
+<th align="center">🟦 Languages</th>
+<th align="center">🎨 Frontend</th>
+<th align="center">⚙️ Backend</th>
+<th align="center">🗄️ Databases</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,cpp,python,js" /><br><sub>+ SQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /></td>
+</tr>
 </table>
+
+<table>
+<tr>
+<th align="center">🔧 Version Control</th>
+<th align="center">💻 IDEs & Tools</th>
+<th align="center">🌐 Hosting & Deployment</th>
+<th align="center">🔌 IoT / Embedded</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel,render" /><br><sub>+ GitHub Pages</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" /><br><sub>+ ESP32</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<b>🤖 AI / Intelligent Systems</b><br>
+<img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Pollinations_AI-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/TOPSIS-0EA5E9?style=flat-square" /> <img src="https://img.shields.io/badge/LSTM-EF4444?style=flat-square" />
+</p>
 
 ---
 
