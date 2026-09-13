@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350" y="111" text-anchor="middle"
+  <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#ffffff">
-    <tspan x="350" dy="0">Stay hungry, stay foolish.</tspan>
+    <tspan x="350.0" dy="0">When you have a dream, you've got to grab it</tspan><tspan x="350.0" dy="30">and never let go.</tspan>
   </text>
 
-  <text x="350" y="172" text-anchor="middle"
+  <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#e8e6ff">
-    — Steve Jobs
+    — Carol Burnett
   </text>
 </svg>
