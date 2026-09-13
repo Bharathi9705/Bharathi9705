@@ -6,13 +6,13 @@
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjUiIGZpbGw9IiMwMEU1RkYiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswLjI1OzEiIGR1cj0iMS42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT48L3N2Zz4=" width="10" height="10" /> &nbsp;<b>OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</b>
+<img src="assets/status-dot.svg" width="10" height="10" /> &nbsp;<b>OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</b>
 
 <sub>Full-Stack · Backend · AI · Systems</sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=PROFILE%20VIEWS&color=1B0F3C&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=PROFILE%20VIEWS&color=0D1117&style=for-the-badge" />
 
 <br><br>
 
@@ -97,6 +97,8 @@ STATUS      → Preparing for SWE roles
 
 ## ⟨ 03 ⟩ ENGINEERING LAB
 
+<p align="center"><img src="assets/signal-flow.svg" width="700" /></p>
+
 <table>
 <tr>
 <td align="center" width="20%"><b>FULL-STACK</b><br><sub>React · Next.js<br>Node · Flask · APIs</sub></td>
@@ -131,56 +133,119 @@ STATUS      → Preparing for SWE roles
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
-<table>
-<tr><td>
+<br>
 
-**`[ AI ]`  NEURO-OS**
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=0A0E17" />
+
+### NEURO-OS
+
 Full-stack AI chat platform powered by Groq's LLaMA 3.3 70B, with AI image generation, authentication, file analysis, chat history, and export.
+
 `TypeScript` `FastAPI` `Groq LLaMA` `AI Image Gen`
-🔗 [Source](https://github.com/Bharathi9705/neuro-os) · 🌐 [Live](https://neuro-os-alpha.vercel.app/)
 
-</td></tr>
-<tr><td>
+<a href="https://github.com/Bharathi9705/neuro-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
 
-**`[ SYSTEMS ]`  AI-POWERED PREDICTIVE DUAL-WAN FAILOVER ROUTER**
+<br>
+</td></tr></table>
+
+<br>
+
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEMS-8B5CF6?style=flat-square&labelColor=0A0E17" />
+
+### AI-POWERED PREDICTIVE DUAL-WAN FAILOVER ROUTER
+
 Raspberry Pi 5 network failover system combining TOPSIS-based health scoring with LSTM failure prediction to switch links before an outage.
+
 `Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
-🔗 [Source](https://github.com/Bharathi9705/dual-wan-failover)
 
-</td></tr>
-<tr><td>
+<a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 
-**`[ FULL-STACK ]`  SKCET LIBRARY MANAGEMENT SYSTEM**
+<br>
+</td></tr></table>
+
+<br>
+
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/FULL--STACK-00E5FF?style=flat-square&labelColor=0A0E17" />
+
+### SKCET LIBRARY MANAGEMENT SYSTEM
+
 Role-based platform (Admin, Librarian, Student) handling 150+ books, issue/return workflows, fine calculation, dashboards, and reports, with dark mode.
+
 `Node.js` `Express.js` `MySQL`
-🔗 [Source](https://github.com/Bharathi9705/skcet-library-management) · 🌐 [Live](https://skcet-library-management.onrender.com/)
 
-</td></tr>
-<tr><td>
+<a href="https://github.com/Bharathi9705/skcet-library-management"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://skcet-library-management.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=render&logoColor=8B5CF6" /></a>
 
-**`[ BACKEND ]`  MODERN HRMS**
+<br>
+</td></tr></table>
+
+<br>
+
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND-8B5CF6?style=flat-square&labelColor=0A0E17" />
+
+### MODERN HRMS
+
 Employee lifecycle management system with attendance, leave workflows, employee records, and REST APIs, styled with Tailwind CSS and Chart.js.
+
 `Flask` `SQLite` `JWT` `Tailwind` `Chart.js`
-🔗 [Source](https://github.com/Bharathi9705/modern-hrms-flask) · 🌐 [Live](https://modern-hrms-flask.onrender.com/)
 
-</td></tr>
-<tr><td>
+<a href="https://github.com/Bharathi9705/modern-hrms-flask"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://modern-hrms-flask.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=render&logoColor=8B5CF6" /></a>
 
-**`[ FINTECH ]`  FLOWT FINANCE OS**
+<br>
+</td></tr></table>
+
+<br>
+
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/FINTECH-00E5FF?style=flat-square&labelColor=0A0E17" />
+
+### FLOWT FINANCE OS
+
 Personal finance system with expense tracking, budgeting, savings goals, recurring transactions, analytics, and reports, synced live via Firestore.
+
 `JavaScript` `Firebase` `Firestore`
-🔗 [Source](https://github.com/Bharathi9705/flowt-finance-os) · 🌐 [Live](https://bharathi9705.github.io/flowt-finance-os-/)
 
-</td></tr>
-<tr><td>
+<a href="https://github.com/Bharathi9705/flowt-finance-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://bharathi9705.github.io/flowt-finance-os-/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=githubpages&logoColor=8B5CF6" /></a>
 
-**`[ PRODUCTIVITY ]`  NOTESTACK**
+<br>
+</td></tr></table>
+
+<br>
+
+<table><tr><td>
+<br>
+
+<img src="https://img.shields.io/badge/PRODUCTIVITY-8B5CF6?style=flat-square&labelColor=0A0E17" />
+
+### NOTESTACK
+
 Keyboard-driven notes workspace with a premium dark UI — single-file frontend, zero build tools, backed by a Flask REST API.
-`Flask` `REST API`
-🔗 [Source](https://github.com/Bharathi9705/notestack)
 
-</td></tr>
-</table>
+`Flask` `REST API`
+
+<a href="https://github.com/Bharathi9705/notestack"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+
+<br>
+</td></tr></table>
+
+<br>
 
 ---
 
@@ -198,10 +263,10 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bharathi9705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&icon_color=8B5CF6&text_color=C4B5FD" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi9705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=C4B5FD" height="165" />
+<img src="assets/stats.svg" height="165" />
+<img src="assets/top-langs.svg" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi9705&theme=tokyonight&hide_border=true&background=0A0E17&stroke=8B5CF6&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com/?user=Bharathi9705&theme=tokyonight&hide_border=true&background=0A0E17&stroke=8B5CF6&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi9705&theme=tokyo-night&hide_border=true&bg_color=0A0E17&color=00E5FF&line=8B5CF6&point=C4B5FD" />
 
@@ -220,8 +285,6 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 <!-- QUOTE:END -->
 
 </p>
-
-<p align="center"><sub>⌁ auto-updates daily via GitHub Actions</sub></p>
 
 ---
 
