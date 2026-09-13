@@ -1,1 +1,29 @@
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6a11cb"/>
+      <stop offset="100%" stop-color="#2575fc"/>
+    </linearGradient>
+    <filter id="blur1"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
 
+  <rect width="700" height="200" rx="24" fill="url(#bg)"/>
+
+  <circle cx="120" cy="40" r="70" fill="#ffffff" opacity="0.15" filter="url(#blur1)"/>
+  <circle cx="600" cy="170" r="90" fill="#ffffff" opacity="0.12" filter="url(#blur1)"/>
+
+  <rect x="18" y="18" width="664" height="164" rx="18"
+        fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="350" y="111" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
+        fill="#ffffff">
+    <tspan x="350" dy="0">Stay hungry, stay foolish.</tspan>
+  </text>
+
+  <text x="350" y="172" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
+        fill="#e8e6ff">
+    — Steve Jobs
+  </text>
+</svg>
