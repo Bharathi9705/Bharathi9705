@@ -1,77 +1,73 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=BHARATHI%20A&fontSize=60&fontColor=87CEEB&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Developer&descAlignY=75&descSize=18&animation=twinkling)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Final-Year+ECE+Student;Learning+Full-Stack+%26+AI+Development" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:1B2735,100:2E1065&height=230&section=header&text=BHARATHI%20A&fontSize=58&fontColor=00E5FF&desc=Aspiring%20Software%20Engineer&descAlignY=68&descSize=20&descColor=C4B5FD&animation=fadeIn)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20ENTRY--LEVEL%20ROLES-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=PROFILE%20VIEWS&color=808080&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Backend+Engineer;AI+Application+Explorer;ECE+Systems+Engineer;Building+Systems+That+Work" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bharathi-a-91543b290">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bharathi9705">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BharathiArumugam">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://bharathi9705.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjUiIGZpbGw9IiMwMEU1RkYiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswLjI1OzEiIGR1cj0iMS42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT48L3N2Zz4=" width="10" height="10" /> &nbsp;<b>OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</b>
+
+<sub>Full-Stack · Backend · AI · Systems</sub>
+
+<br><br>
+
+<a href="https://github.com/Bharathi9705"><img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/bharathi-a-91543b290/"><img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+<a href="https://bharathi9705.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0E17?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+<a href="https://leetcode.com/u/BharathiArumugam/"><img src="https://img.shields.io/badge/LeetCode-0A0E17?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+
+</div>
+
+<br>
+
+```
+SIGNAL  →  SYSTEM  →  CODE  →  INTELLIGENCE  →  PRODUCT
+ (ECE)     (Networks)  (Software)   (AI)         (Shipped)
+```
+
+<div align="center"><sub>trained to read one, built to ship the other</sub></div>
 
 ---
 
-## 〔 01 〕 ABOUT ME
+## ⟨ 01 ⟩ ABOUT
 
-> Building practical software at the intersection of Full-Stack Development, Backend Engineering, and Generative AI.
+> Trained to read signals. Built to ship systems.
+
+I'm a final-year Electronics & Communication Engineering student who ended up on the software side of things — building full-stack products, wiring backend systems together, and shipping AI-integrated applications that actually run in production, not just in a notebook. My ECE background shows up in how I think about software: as systems with failure modes, not just features.
 
 <table>
-<tr>
-<td align="center" width="50%">
+<tr><td>
 
-**👨‍💻 Developer**
-Full-Stack / Backend
+```
+SYSTEM PROFILE
+──────────────────────────────────────────
+ROLE        → Aspiring Software Engineer
+FOCUS       → Full-Stack · Backend · AI
+FOUNDATION  → Electronics & Communication
+BUILDING    → Practical software products
+EXPLORING   → LLMs · System Design
+STATUS      → Preparing for SWE roles
+──────────────────────────────────────────
+```
 
-</td>
-<td align="center" width="50%">
-
-**🎓 ECE**
-SKCET · 2023 – 2027
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-**Currently**
-
-```
-🔭 Building      → Full-stack & AI applications
-🌱 Exploring      → LLM integration & system design
-⚡ Strength       → Backend APIs & database-driven applications
-🎯 Looking for    → Software Engineer / Full-Stack opportunities
-```
-
 ---
 
-## 〔 02 〕 TECH ARSENAL
+## ⟨ 02 ⟩ TECH ARSENAL
 
 <table>
 <tr>
-<th align="center">🟦 Languages</th>
-<th align="center">🎨 Frontend</th>
-<th align="center">⚙️ Backend</th>
-<th align="center">🗄️ Databases</th>
+<th align="center">Languages</th>
+<th align="center">Frontend</th>
+<th align="center">Backend</th>
+<th align="center">Databases</th>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,cpp,python,js" /><br><sub>+ SQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,python,js" /><br><sub>+ SQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /></td>
@@ -80,228 +76,138 @@ SKCET · 2023 – 2027
 
 <table>
 <tr>
-<th align="center">🔧 Version Control</th>
-<th align="center">💻 IDEs & Tools</th>
-<th align="center">🌐 Hosting & Deployment</th>
-<th align="center">🔌 IoT / Embedded</th>
+<th align="center">Systems / IoT</th>
+<th align="center">Tools</th>
+<th align="center">Deployment</th>
+<th align="center">AI</th>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" /><br><sub>+ ESP32 · Networking</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><sub>+ Postman</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel,render" /><br><sub>+ GitHub Pages</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" /><br><sub>+ ESP32</sub></td>
+<td align="center"><sub>LLMs · Generative AI<br>AI Integration</sub></td>
 </tr>
 </table>
 
-<p align="center">
-<b>🤖 AI / Intelligent Systems</b><br>
-<img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Pollinations_AI-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/TOPSIS-0EA5E9?style=flat-square" /> <img src="https://img.shields.io/badge/LSTM-EF4444?style=flat-square" />
-</p>
-
 ---
 
-## 〔 02.5 〕 WHAT I'M FOCUSED ON
+## ⟨ 03 ⟩ ENGINEERING LAB
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-🌐
-**FULL-STACK ENGINEERING**
-<sub>React / Next.js / Node / Flask / APIs</sub>
-
-</td>
-<td align="center" width="33%">
-
-🤖
-**AI APPLICATIONS**
-<sub>LLMs / AI integration / intelligent systems</sub>
-
-</td>
-<td align="center" width="33%">
-
-🔌
-**SYSTEMS & IoT**
-<sub>Raspberry Pi / ESP32 / networking</sub>
-
-</td>
+<td align="center" width="20%"><b>FULL-STACK</b><br><sub>React · Next.js<br>Node · Flask · APIs</sub></td>
+<td align="center" width="20%"><b>AI APPLICATIONS</b><br><sub>LLMs · AI integration<br>intelligent systems</sub></td>
+<td align="center" width="20%"><b>BACKEND SYSTEMS</b><br><sub>REST APIs · databases<br>authentication</sub></td>
+<td align="center" width="20%"><b>SYSTEMS & IoT</b><br><sub>Raspberry Pi · ESP32<br>networking</sub></td>
+<td align="center" width="20%"><b>PROBLEM SOLVING</b><br><sub>DSA · SQL · OOP<br>System Design</sub></td>
 </tr>
 </table>
 
-<sub>⌁ Currently sharpening: DSA · SQL · OOP · DBMS · System Design</sub>
-
 ---
 
-## 〔 03 〕 EXPERIENCE
+## ⟨ 04 ⟩ EXPERIENCE
 
 ```
 2026
 │
-├── Full Stack Development Intern
-│   THIRANEX
-│   May 2026 – Jun 2026
-│
-│   Full-stack web applications
-│   REST APIs · Backend Services · Databases
+├── THIRANEX
+│   Full Stack Development Intern · May – Jun 2026
+│   Full-stack web applications · REST APIs
+│   Backend services · Database operations
 │
 2025
 │
-└── Signaling Intern
-    SOUTHERN RAILWAY
-    Jun 2025 · 14 days
-
-    Railway signaling
-    Real-time coordination · Safety-critical communication
+└── SOUTHERN RAILWAY
+    Technical / Signaling Intern · Jun 2025 · 14 days
+    Railway signaling · Communication systems
+    Real-time coordination · Safety-critical operations
 ```
 
 ---
 
-## 〔 04 〕 🚀 FEATURED PROJECTS
+## ⟨ 05 ⟩ FEATURED PROJECTS
 
 <table>
 <tr><td>
 
-### 🤖 NEURO-OS — AI CHAT PLATFORM
+**`[ AI ]`  NEURO-OS**
+Full-stack AI chat platform powered by Groq's LLaMA 3.3 70B, with AI image generation, authentication, file analysis, chat history, and export.
+`TypeScript` `FastAPI` `Groq LLaMA` `AI Image Gen`
+🔗 [Source](https://github.com/Bharathi9705/neuro-os) · 🌐 [Live](https://neuro-os-alpha.vercel.app/)
 
-A full-stack AI chat platform combining LLaMA-powered conversations with AI image generation, authentication, file analysis, chat history, and export.
+</td></tr>
+<tr><td>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square" />
+**`[ SYSTEMS ]`  AI-POWERED PREDICTIVE DUAL-WAN FAILOVER ROUTER**
+Raspberry Pi 5 network failover system combining TOPSIS-based health scoring with LSTM failure prediction to switch links before an outage.
+`Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
+🔗 [Source](https://github.com/Bharathi9705/dual-wan-failover)
 
-🔗 <a href="https://github.com/Bharathi9705/neuro-os">View Source</a> · 🌐 <a href="https://neuro-os-alpha.vercel.app/">Live Demo</a>
+</td></tr>
+<tr><td>
+
+**`[ FULL-STACK ]`  SKCET LIBRARY MANAGEMENT SYSTEM**
+Role-based platform (Admin, Librarian, Student) handling 150+ books, issue/return workflows, fine calculation, dashboards, and reports, with dark mode.
+`Node.js` `Express.js` `MySQL`
+🔗 [Source](https://github.com/Bharathi9705/skcet-library-management) · 🌐 [Live](https://skcet-library-management.onrender.com/)
+
+</td></tr>
+<tr><td>
+
+**`[ BACKEND ]`  MODERN HRMS**
+Employee lifecycle management system with attendance, leave workflows, employee records, and REST APIs, styled with Tailwind CSS and Chart.js.
+`Flask` `SQLite` `JWT` `Tailwind` `Chart.js`
+🔗 [Source](https://github.com/Bharathi9705/modern-hrms-flask) · 🌐 [Live](https://modern-hrms-flask.onrender.com/)
+
+</td></tr>
+<tr><td>
+
+**`[ FINTECH ]`  FLOWT FINANCE OS**
+Personal finance system with expense tracking, budgeting, savings goals, recurring transactions, analytics, and reports, synced live via Firestore.
+`JavaScript` `Firebase` `Firestore`
+🔗 [Source](https://github.com/Bharathi9705/flowt-finance-os) · 🌐 [Live](https://bharathi9705.github.io/flowt-finance-os-/)
+
+</td></tr>
+<tr><td>
+
+**`[ PRODUCTIVITY ]`  NOTESTACK**
+Keyboard-driven notes workspace with a premium dark UI — single-file frontend, zero build tools, backed by a Flask REST API.
+`Flask` `REST API`
+🔗 [Source](https://github.com/Bharathi9705/notestack)
 
 </td></tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-#### 🔌 DUAL-WAN FAILOVER ROUTER
-<sub>Raspberry Pi 5 · Python · FastAPI · TOPSIS · LSTM</sub>
+## ⟨ 06 ⟩ ENGINEERING IDENTITY
 
-Predictive network failover system combining network-health scoring and LSTM-based failure prediction with a FastAPI dashboard.
+```
+ECE  →  Networking  →  Backend  →  Full-Stack  →  AI  →  Products
+```
 
-🔗 <a href="https://github.com/Bharathi9705/dual-wan-failover">View Source</a>
-
-</td>
-<td width="50%">
-
-#### 📚 LIBRARY MANAGEMENT SYSTEM
-<sub>Node.js · Express.js · MySQL</sub>
-
-Role-based library platform with Admin, Librarian, and Student workflows, automated fines, and reporting.
-
-🔗 <a href="https://github.com/Bharathi9705/skcet-library-management">View Source</a> · 🌐 <a href="https://skcet-library-management.onrender.com/">Live Demo</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🧑‍💼 MODERN HRMS
-<sub>Flask · SQLite · REST API</sub>
-
-Employee lifecycle management with attendance, leave workflows, and REST services.
-
-🔗 <a href="https://github.com/Bharathi9705/modern-hrms-flask">View Source</a> · 🌐 <a href="https://modern-hrms-flask.onrender.com/">Live Demo</a>
-
-</td>
-<td width="50%">
-
-#### 💰 FLOWT
-<sub>JavaScript · Firebase · Firestore</sub>
-
-Personal finance system with budgeting, analytics, and real-time data synchronization.
-
-🔗 <a href="https://github.com/Bharathi9705/flowt-finance-os">View Source</a> · 🌐 <a href="https://bharathi9705.github.io/flowt-finance-os-/">Live Demo</a>
-
-</td>
-</tr>
-</table>
+I don't just learn technologies — I build systems with them. The dual-WAN router isn't a tutorial project; it's a networking problem (my ECE core) solved with a backend service, a prediction model, and a live dashboard — the exact same pipeline that turns into a full-stack product when the domain changes from packets to people.
 
 ---
 
-## 〔 05 〕 CERTIFICATIONS
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-🎓 **CISCO**
-<sub>Networking<br>Routing & Switching<br>Security</sub>
-
-</td>
-<td align="center" width="33%">
-
-📘 **INFOSYS**
-<sub>Java · Python<br>DBMS · NoSQL<br>Agile</sub>
-
-</td>
-<td align="center" width="33%">
-
-📜 **NPTEL**
-<sub>Ethical Engineering<br>Soft Skills</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 〔 06 〕 ACHIEVEMENTS
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-🏆 **SENSONICS 2024**
-<sub>Presented ESP32-based IoT Home Automation system<br>Kongu Engineering College</sub>
-
-</td>
-<td align="center" width="50%">
-
-🔌 **SHAASTRA 2025**
-<sub>Raspberry Pi IoT Automation Workshop<br>IIT Madras</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 〔 07 〕 EDUCATION
+## ⟨ 07 ⟩ GITHUB COMMAND CENTER
 
 <div align="center">
 
-🎓 **B.E. ELECTRONICS & COMMUNICATION ENGINEERING**
+<img src="https://github-readme-stats.vercel.app/api?username=Bharathi9705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&icon_color=8B5CF6&text_color=C4B5FD" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi9705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=C4B5FD" height="165" />
 
-Sri Krishna College of Engineering and Technology
-Coimbatore
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi9705&theme=tokyonight&hide_border=true&background=0A0E17&stroke=8B5CF6&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
-`2023 — 2027` · `CGPA: 8.0 / 10` · `Currently Pursuing`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi9705&theme=tokyo-night&hide_border=true&bg_color=0A0E17&color=00E5FF&line=8B5CF6&point=C4B5FD" />
+
+![Snake animation](https://raw.githubusercontent.com/Bharathi9705/Bharathi9705/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 〔 08 〕 GITHUB STATS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharathi9705&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi9705&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi9705&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 〔 08.5 〕 QUOTE OF THE DAY
+## ⟨ 08 ⟩ QUOTE OF THE DAY
 
 <p align="center">
 
@@ -315,8 +221,58 @@ Coimbatore
 
 ---
 
-## 〔 09 〕 LET'S CONNECT
+## ⟨ 09 ⟩ CERTIFICATIONS
 
-<p align="center"><i>⭐ Star my repos if you find them useful — let's build something great together!</i></p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p align="center">&lt; coded with ❤️ by Bharathi A /&gt;</p>
+**Cisco Networking**
+<sub>Introduction to Networks<br>Switching, Routing & Wireless<br>Enterprise Networking, Security & Authentication</sub>
+
+</td>
+<td valign="top" width="33%">
+
+**Infosys Springboard**
+<sub>Java · DBMS · Python<br>NoSQL<br>Software Engineering & Agile</sub>
+
+</td>
+<td valign="top" width="33%">
+
+**NPTEL**
+<sub>Ethical Engineering Practices<br>Soft Skills</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⟨ 10 ⟩ ENGINEERING ACTIVITIES
+
+**SENSONICS 2024** — Presented an ESP32-based IoT Home Automation system, Kongu Engineering College
+**SHAASTRA 2025** — Raspberry Pi IoT Automation Workshop, IIT Madras
+
+---
+
+## ⟨ 11 ⟩ EDUCATION
+
+<div align="center">
+
+**B.E. Electronics & Communication Engineering**
+Sri Krishna College of Engineering and Technology, Coimbatore
+`2023 — 2027` · `CGPA: 8.05 / 10`
+
+Higher Secondary · `83%`
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILD → LEARN → SHIP → REPEAT**
+
+`< engineered with curiosity />`
+
+</div>
