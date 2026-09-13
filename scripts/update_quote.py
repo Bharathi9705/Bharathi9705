@@ -22,7 +22,7 @@ def get_quote():
 
 
 def build_glass_svg(quote, author):
-    """Build a glassmorphism-style SVG card embedding the quote."""
+    """Glass-panel SVG card in the cyan/violet command-center theme."""
     lines = textwrap.wrap(quote, width=46)[:4]
     line_height = 30
     total_text_h = len(lines) * line_height
@@ -36,29 +36,29 @@ def build_glass_svg(quote, author):
     return f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#6a11cb"/>
-      <stop offset="100%" stop-color="#2575fc"/>
+      <stop offset="0%" stop-color="#0A0E17"/>
+      <stop offset="100%" stop-color="#1B0F3C"/>
     </linearGradient>
     <filter id="blur1"><feGaussianBlur stdDeviation="30"/></filter>
   </defs>
 
   <rect width="{width}" height="{height}" rx="24" fill="url(#bg)"/>
 
-  <circle cx="120" cy="40" r="70" fill="#ffffff" opacity="0.15" filter="url(#blur1)"/>
-  <circle cx="600" cy="170" r="90" fill="#ffffff" opacity="0.12" filter="url(#blur1)"/>
+  <circle cx="120" cy="40" r="70" fill="#00E5FF" opacity="0.12" filter="url(#blur1)"/>
+  <circle cx="600" cy="170" r="90" fill="#8B5CF6" opacity="0.14" filter="url(#blur1)"/>
 
   <rect x="18" y="18" width="{width-36}" height="{height-36}" rx="18"
-        fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
+        fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
   <text x="{width/2}" y="{height/2 - total_text_h/2 + 26}" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
-        fill="#ffffff">
+        fill="#E0F7FF">
     {tspans}
   </text>
 
   <text x="{width/2}" y="{height - 28}" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
-        fill="#e8e6ff">
+        fill="#C4B5FD">
     — {author}
   </text>
 </svg>'''
@@ -73,7 +73,6 @@ def update_svg(quote, author):
 
 
 def update_readme_marker():
-    """README just points at the SVG file — only needs to exist once."""
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -87,7 +86,7 @@ def update_readme_marker():
     if pattern.search(content):
         content = pattern.sub(block, content)
     else:
-        content += f"\n\n### 💬 Quote of the Day\n{block}\n"
+        content += f"\n\n### Quote of the Day\n{block}\n"
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
