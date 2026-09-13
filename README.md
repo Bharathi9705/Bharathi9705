@@ -278,18 +278,15 @@ Coimbatore
 
 ## 〔 08.5 〕 QUOTE OF THE DAY
 
-<table>
-<tr><td align="center">
+<p align="center">
 
 <!-- QUOTE:START -->
-<h3>❝ Stay hungry, stay foolish. ❞</h3>
-<p><b>— Steve Jobs</b></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=120&text=%E2%9D%9D%20Stay%20hungry%2C%20stay%20foolish.%20%E2%9D%9E&fontSize=18&fontColor=ffffff&desc=%E2%80%94%20Steve%20Jobs&descSize=14&descAlignY=80" alt="Quote of the Day" />
 <!-- QUOTE:END -->
 
-<sub>⌁ auto-updates daily via GitHub Actions</sub>
+</p>
 
-</td></tr>
-</table>
+<p align="center"><sub>⌁ auto-updates daily via GitHub Actions</sub></p>
 
 ---
 
