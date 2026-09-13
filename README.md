@@ -279,8 +279,8 @@ Coimbatore
 ## 〔 08.5 〕 QUOTE OF THE DAY
 
 <!-- QUOTE:START -->
-> 💬 *"Stay hungry, stay foolish."*
-> — **Steve Jobs**
+> 💬 *"In order to be walked over, you have to be lying down."*
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 *(auto-updates daily via GitHub Actions)*
