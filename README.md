@@ -31,134 +31,231 @@
 
 ## 〔 01 〕 ABOUT ME
 
-### 👨‍💻 Who Am I?
+> Building practical software at the intersection of Full-Stack Development, Backend Engineering, and Generative AI.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Coimbatore,%20India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_College-SKCET-9146FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/📊_CGPA-8.0%2F10-success?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-- 🎓 Final-year Electronics and Communication Engineering student, Coimbatore
-- 💻 Learning and building full-stack web apps with React/Next.js, Flask, FastAPI, Node.js, and Firebase
-- 🤖 Curious about Generative AI and exploring how to integrate LLMs into real projects
-- 🌱 Always picking up something new — currently sharpening DSA and system design basics
-- 🤝 Open to full-stack developer / software engineer opportunities
+**👨‍💻 Developer**
+Full-Stack / Backend
 
-### 🌐 Quick Info
+</td>
+<td align="center" width="50%">
 
-| | |
-|---|---|
-| 💼 | Aspiring Full-Stack Developer |
-| 🤖 | AI & ML Enthusiast |
-| 🌱 | Learning every day |
-| 📜 | 3 Certifications (Cisco, Infosys, NPTEL) |
-| 🔥 | Thiranex Full-Stack Intern Alumni |
-| 📧 | bharathi20061882@gmail.com |
-| 🔗 | [bharathi9705.github.io](https://bharathi9705.github.io/) |
+**🎓 ECE**
+SKCET · 2023 – 2027
+
+</td>
+</tr>
+</table>
+
+**Currently**
+
+```
+🔭 Building      → Full-stack & AI applications
+🌱 Exploring      → LLM integration & system design
+⚡ Strength       → Backend APIs & database-driven applications
+🎯 Looking for    → Software Engineer / Full-Stack opportunities
+```
 
 ---
 
 ## 〔 02 〕 TECH ARSENAL
 
-**🟦 Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
-
-**🎨 Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-
-**⚙️ Backend & Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-
-**🗄️ Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-
-**🔧 Version Control**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-**💻 IDEs & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-**🌐 Hosting & Deployment**
-<br>
-<img src="https://skillicons.dev/icons?i=vercel,render" />
-<br>
-<sub>+ GitHub Pages (portfolio & Flowt frontend)</sub>
-
-**🤖 AI & Emerging Tech**
-<br>
-Groq LLaMA · Pollinations AI · TOPSIS & LSTM-based Prediction
+<table>
+<tr><td width="20%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,python,js" /> <sub>+ SQL</sub></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /></td></tr>
+<tr><td><b>Tools & Deployment</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" /> <sub>+ GitHub Pages</sub></td></tr>
+<tr><td><b>IoT / Embedded</b></td><td><img src="https://skillicons.dev/icons?i=raspberrypi" /> <sub>+ ESP32</sub></td></tr>
+<tr><td><b>AI / Intelligent Systems</b></td><td><img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Pollinations_AI-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/TOPSIS-0EA5E9?style=flat-square" /> <img src="https://img.shields.io/badge/LSTM-EF4444?style=flat-square" /></td></tr>
+</table>
 
 ---
 
 ## 〔 02.5 〕 WHAT I'M FOCUSED ON
 
-| | | |
-|:---:|:---:|:---:|
-| 🌐<br>**Full-Stack Web Development** | 🤖<br>**Generative AI & LLM Integration** | 🔌<br>**Embedded Systems & IoT** |
-| 🗄️<br>**RESTful API Design** | 📊<br>**Data Structures & Algorithms** | 🚀<br>**Continuous Learning & Growth** |
+<table>
+<tr>
+<td align="center" width="33%">
+
+🌐
+**FULL-STACK ENGINEERING**
+<sub>React / Next.js / Node / Flask / APIs</sub>
+
+</td>
+<td align="center" width="33%">
+
+🤖
+**AI APPLICATIONS**
+<sub>LLMs / AI integration / intelligent systems</sub>
+
+</td>
+<td align="center" width="33%">
+
+🔌
+**SYSTEMS & IoT**
+<sub>Raspberry Pi / ESP32 / networking</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>⌁ Currently sharpening: DSA · SQL · OOP · DBMS · System Design</sub>
 
 ---
 
 ## 〔 03 〕 EXPERIENCE
 
-**Full Stack Development Intern — Thiranex** · May 2026 – Jun 2026
-- Built full-stack web applications, developing responsive interfaces, integrating backend services and REST APIs, and performing database operations across the full software development lifecycle.
+```
+2026
+│
+├── Full Stack Development Intern
+│   THIRANEX
+│   May 2026 – Jun 2026
+│
+│   Full-stack web applications
+│   REST APIs · Backend Services · Databases
+│
+2025
+│
+└── Signaling Intern
+    SOUTHERN RAILWAY
+    Jun 2025 · 14 days
 
-**Signaling Internship — Southern Railway** · Jun 2025 (14 days)
-- Studied railway signaling systems for real-time train coordination and safety-critical communication; gained exposure to distributed monitoring, fault tolerance, and embedded communication protocols.
+    Railway signaling
+    Real-time coordination · Safety-critical communication
+```
 
 ---
 
-## 〔 04 〕 FEATURED PROJECTS
+## 〔 04 〕 🚀 FEATURED PROJECTS
 
-🤖 **Neuro-OS – AI Chatbot Platform** · [GitHub](https://github.com/Bharathi9705/neuro-os) · [Live](https://neuro-os-alpha.vercel.app)
-Full-stack AI chatbot integrating Groq's LLaMA 3.3 70B with Pollinations AI for real-time image generation, Google OAuth, file upload, and chat export.
-`Next.js` `FastAPI` `Groq LLaMA` `Pollinations AI`
+<table>
+<tr><td>
 
-📚 **Library Management System** · [GitHub](https://github.com/Bharathi9705/skcet-library-management) · [Live](https://skcet-library-management.onrender.com)
-Role-based platform (Admin, Librarian, Student) with issue/return workflows, automated fine calculation, and CSV reporting.
-`Node.js` `Express` `MySQL`
+### 🤖 NEURO-OS — AI CHAT PLATFORM
 
-🧑‍💼 **Modern HRMS System** · [GitHub](https://github.com/Bharathi9705/modern-hrms-flask) · [Live](https://modern-hrms-flask.onrender.com)
-Modular HR system for employee lifecycle management with attendance and leave workflows.
-`Flask` `SQLite` `REST API`
+A full-stack AI chat platform combining LLaMA-powered conversations with AI image generation, authentication, file analysis, chat history, and export.
 
-💰 **Flowt – Finance Management System** · [GitHub](https://github.com/Bharathi9705/flowt-finance-os) · [Live](https://bharathi9705.github.io/flowt-finance-os-/)
-SaaS-style personal finance app with real-time Firestore sync and analytics dashboards.
-`JavaScript` `Firebase` `Firestore`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_LLaMA-000000?style=flat-square" /> <img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square" />
 
-🔌 **Dual-WAN Failover Router** · [GitHub](https://github.com/Bharathi9705/dual-wan-failover)
-Raspberry Pi 5 network failover system using TOPSIS scoring and LSTM-based failure prediction, with a FastAPI backend and Chart.js dashboard.
-`Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
+🔗 <a href="https://github.com/Bharathi9705/neuro-os">View Source</a> · 🌐 <a href="https://neuro-os-alpha.vercel.app/">Live Demo</a>
+
+</td></tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔌 DUAL-WAN FAILOVER ROUTER
+<sub>Raspberry Pi 5 · Python · FastAPI · TOPSIS · LSTM</sub>
+
+Predictive network failover system combining network-health scoring and LSTM-based failure prediction with a FastAPI dashboard.
+
+🔗 <a href="https://github.com/Bharathi9705/dual-wan-failover">View Source</a>
+
+</td>
+<td width="50%">
+
+#### 📚 LIBRARY MANAGEMENT SYSTEM
+<sub>Node.js · Express.js · MySQL</sub>
+
+Role-based library platform with Admin, Librarian, and Student workflows, automated fines, and reporting.
+
+🔗 <a href="https://github.com/Bharathi9705/skcet-library-management">View Source</a> · 🌐 <a href="https://skcet-library-management.onrender.com/">Live Demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🧑‍💼 MODERN HRMS
+<sub>Flask · SQLite · REST API</sub>
+
+Employee lifecycle management with attendance, leave workflows, and REST services.
+
+🔗 <a href="https://github.com/Bharathi9705/modern-hrms-flask">View Source</a> · 🌐 <a href="https://modern-hrms-flask.onrender.com/">Live Demo</a>
+
+</td>
+<td width="50%">
+
+#### 💰 FLOWT
+<sub>JavaScript · Firebase · Firestore</sub>
+
+Personal finance system with budgeting, analytics, and real-time data synchronization.
+
+🔗 <a href="https://github.com/Bharathi9705/flowt-finance-os">View Source</a> · 🌐 <a href="https://bharathi9705.github.io/flowt-finance-os-/">Live Demo</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 〔 05 〕 CERTIFICATIONS
 
-- **Cisco Networking Academy** — Networking Fundamentals, Routing & Switching, Security and Authentication
-- **Infosys Springboard** — Java, Python, DBMS, Agile Software Development, NoSQL Databases
-- **NPTEL** — Ethical Engineering Practices, Soft Skills
+<table>
+<tr>
+<td align="center" width="33%">
+
+🎓 **CISCO**
+<sub>Networking<br>Routing & Switching<br>Security</sub>
+
+</td>
+<td align="center" width="33%">
+
+📘 **INFOSYS**
+<sub>Java · Python<br>DBMS · NoSQL<br>Agile</sub>
+
+</td>
+<td align="center" width="33%">
+
+📜 **NPTEL**
+<sub>Ethical Engineering<br>Soft Skills</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 〔 06 〕 ACHIEVEMENTS
 
-- Presented an ESP32-based IoT Home Automation system at **Sensonics 2024**, Kongu Engineering College
-- Completed a hands-on IoT Automation workshop (Raspberry Pi) at **Shaastra 2025**, IIT Madras
+<table>
+<tr>
+<td align="center" width="50%">
+
+🏆 **SENSONICS 2024**
+<sub>Presented ESP32-based IoT Home Automation system<br>Kongu Engineering College</sub>
+
+</td>
+<td align="center" width="50%">
+
+🔌 **SHAASTRA 2025**
+<sub>Raspberry Pi IoT Automation Workshop<br>IIT Madras</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 〔 07 〕 EDUCATION
 
-🏛️ **B.E. Electronics and Communication Engineering** — Sri Krishna College of Engineering and Technology
-CGPA: 8.0/10 · 2023 – 2027 (Currently Pursuing)
+<div align="center">
+
+🎓 **B.E. ELECTRONICS & COMMUNICATION ENGINEERING**
+
+Sri Krishna College of Engineering and Technology
+Coimbatore
+
+`2023 — 2027` · `CGPA: 8.0 / 10` · `Currently Pursuing`
+
+</div>
 
 ---
 
