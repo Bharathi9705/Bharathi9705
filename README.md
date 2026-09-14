@@ -95,6 +95,29 @@ STATUS      → Preparing for SWE roles
 
 ---
 
+## ⟨ 02.5 ⟩ SIGNALS & SYSTEMS
+
+<sub>The ECE core underneath the software</sub>
+
+<table>
+<tr>
+<td align="center" width="20%"><b>ESP32</b><br><sub>IoT & wireless comms</sub></td>
+<td align="center" width="20%"><b>Raspberry Pi</b><br><sub>IoT automation & architecture</sub></td>
+<td align="center" width="20%"><b>RF / Wi-Fi</b><br><sub>RSSI · signal mapping</sub></td>
+<td align="center" width="20%"><b>Embedded Systems</b><br><sub>Sensors · real-time response</sub></td>
+<td align="center" width="20%"><b>Networking</b><br><sub>Cisco · comms systems</sub></td>
+</tr>
+</table>
+
+**Hardware & Field Work**
+- **Smart Indoor RF Signal Mapping** — Wi-Fi RSSI data collection, Python processing, signal visualization / heatmaps
+- **Driver Drowsiness & Safety Detection** — real-time sensor data processing with alert generation
+- **ESP32 IoT Home Automation** — presented at Sensonics 2024, Kongu Engineering College
+- **Raspberry Pi IoT Automation** — hands-on workshop, Shaastra 2025, IIT Madras
+- **Southern Railway** — signaling & real-time communication systems exposure *(see Experience)*
+
+---
+
 ## ⟨ 03 ⟩ ENGINEERING LAB
 
 <p align="center"><img src="assets/signal-flow.svg" width="700" /></p>
@@ -256,6 +279,18 @@ ECE  →  Networking  →  Backend  →  Full-Stack  →  AI  →  Products
 ```
 
 I don't just learn technologies — I build systems with them. The dual-WAN router isn't a tutorial project; it's a networking problem (my ECE core) solved with a backend service, a prediction model, and a live dashboard — the exact same pipeline that turns into a full-stack product when the domain changes from packets to people.
+
+---
+
+## ⟨ 06.5 ⟩ ENGINEERING MINDSET
+
+```
+Build. Break. Fix. Repeat.
+Every bug is just feedback with worse timing.
+Small, working systems beat big, broken plans.
+Ship the version that exists, not the one in your head.
+Learn → Build → Ship → Improve.
+```
 
 ---
 
