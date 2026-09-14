@@ -33,6 +33,25 @@ SIGNAL  →  SYSTEM  →  CODE  →  INTELLIGENCE  →  PRODUCT
 
 <div align="center"><sub>trained to read one, built to ship the other</sub></div>
 
+<br>
+
+<table><tr><td>
+
+```
+●  ●  ●
+
+$ whoami
+Bharathi A — final-year ECE student, software-focused
+
+$ current_focus
+Full-Stack + Backend + AI Systems
+
+$ status
+Building → Learning → Shipping
+```
+<p align="center"><img src="assets/cursor.svg" width="8" height="14" /></p>
+</td></tr></table>
+
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 01 ⟩ ABOUT
@@ -101,6 +120,8 @@ STATUS      → Preparing for SWE roles
 </tr>
 </table>
 
+<p align="center"><img src="assets/marquee.svg" width="700" height="34" /></p>
+
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 02.5 ⟩ SIGNALS & SYSTEMS
@@ -154,6 +175,10 @@ STATUS      → Preparing for SWE roles
 │   Full-stack web applications · REST APIs
 │   Backend services · Database operations
 │
+├── CODEALPHA
+│   App Development Intern · 2026
+│   React + Firebase apps · Fitness Tracker · LinguaLearn
+│
 2025
 │
 └── SOUTHERN RAILWAY
@@ -165,6 +190,22 @@ STATUS      → Preparing for SWE roles
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
+
+<div align="center">
+
+<sub>⭐ PROJECT SPOTLIGHT</sub>
+
+### AI-Powered Predictive Dual-WAN Failover Router
+
+Predicting network degradation *before* failure, and dynamically switching WAN connections to keep systems online.
+
+`Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
+
+<a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source_Code-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+
+</div>
+
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 <br>
 
@@ -181,24 +222,6 @@ Full-stack AI chat platform powered by Groq's LLaMA 3.3 70B, with AI image gener
 
 <a href="https://github.com/Bharathi9705/neuro-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
-
-<br>
-</td></tr></table>
-
-<br>
-
-<table><tr><td>
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEMS-8B5CF6?style=flat-square&labelColor=0A0E17" />
-
-### AI-POWERED PREDICTIVE DUAL-WAN FAILOVER ROUTER
-
-Raspberry Pi 5 network failover system combining TOPSIS-based health scoring with LSTM failure prediction to switch links before an outage.
-
-`Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
-
-<a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 
 <br>
 </td></tr></table>
