@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:1B2735,100:2E1065&height=230&section=header&text=BHARATHI%20A&fontSize=58&fontColor=00E5FF&desc=Aspiring%20Software%20Engineer&descAlignY=68&descSize=20&descColor=C4B5FD&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:1B2735,100:2E1065&height=230&section=header&text=BHARATHI%20A&fontSize=58&fontColor=00E5FF&desc=Final-Year%20ECE%20Student&descAlignY=68&descSize=20&descColor=C4B5FD&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Backend+Engineer;AI+Application+Explorer;ECE+Systems+Engineer;Building+Systems+That+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Open+to+Work;Aspiring+Full-Stack+Developer;Aspiring+AI+Developer" alt="Typing SVG" />
 
 <br>
 
@@ -47,7 +47,7 @@ I'm a final-year Electronics & Communication Engineering student who ended up on
 ```
 SYSTEM PROFILE
 ──────────────────────────────────────────
-ROLE        → Aspiring Software Engineer
+ROLE        → Aspiring Full-Stack Developer
 FOCUS       → Full-Stack · Backend · AI
 FOUNDATION  → Electronics & Communication
 BUILDING    → Practical software products
