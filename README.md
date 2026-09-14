@@ -33,7 +33,7 @@ SIGNAL  →  SYSTEM  →  CODE  →  INTELLIGENCE  →  PRODUCT
 
 <div align="center"><sub>trained to read one, built to ship the other</sub></div>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 01 ⟩ ABOUT
 
@@ -59,7 +59,7 @@ STATUS      → Preparing for SWE roles
 </td></tr>
 </table>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 02 ⟩ TECH ARSENAL
 
@@ -93,11 +93,13 @@ STATUS      → Preparing for SWE roles
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 02.5 ⟩ SIGNALS & SYSTEMS
 
-<sub>The ECE core underneath the software</sub>
+<p align="center"><img src="assets/radar-ping.svg" width="90" /></p>
+
+<div align="center"><sub>The ECE core underneath the software</sub></div>
 
 <table>
 <tr>
@@ -116,7 +118,7 @@ STATUS      → Preparing for SWE roles
 - **Raspberry Pi IoT Automation** — hands-on workshop, Shaastra 2025, IIT Madras
 - **Southern Railway** — signaling & real-time communication systems exposure *(see Experience)*
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 03 ⟩ ENGINEERING LAB
 
@@ -132,7 +134,7 @@ STATUS      → Preparing for SWE roles
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 04 ⟩ EXPERIENCE
 
@@ -152,7 +154,7 @@ STATUS      → Preparing for SWE roles
     Real-time coordination · Safety-critical operations
 ```
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
@@ -198,7 +200,7 @@ Raspberry Pi 5 network failover system combining TOPSIS-based health scoring wit
 <table><tr><td>
 <br>
 
-<img src="https://img.shields.io/badge/FULL--STACK-00E5FF?style=flat-square&labelColor=0A0E17" />
+<img src="https://img.shields.io/badge/FULL--STACK-EC4899?style=flat-square&labelColor=0A0E17" />
 
 ### SKCET LIBRARY MANAGEMENT SYSTEM
 
@@ -270,7 +272,7 @@ Keyboard-driven notes workspace with a premium dark UI — single-file frontend,
 
 <br>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 06 ⟩ ENGINEERING IDENTITY
 
@@ -280,7 +282,7 @@ ECE  →  Networking  →  Backend  →  Full-Stack  →  AI  →  Products
 
 I don't just learn technologies — I build systems with them. The dual-WAN router isn't a tutorial project; it's a networking problem (my ECE core) solved with a backend service, a prediction model, and a live dashboard — the exact same pipeline that turns into a full-stack product when the domain changes from packets to people.
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 06.5 ⟩ ENGINEERING MINDSET
 
@@ -292,14 +294,14 @@ Ship the version that exists, not the one in your head.
 Learn → Build → Ship → Improve.
 ```
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 07 ⟩ GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img src="assets/stats.svg" height="165" />
-<img src="assets/top-langs.svg" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bharathi9705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&icon_color=8B5CF6&text_color=C4B5FD" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi9705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=C4B5FD" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=Bharathi9705&theme=tokyonight&hide_border=true&background=0A0E17&stroke=8B5CF6&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
@@ -309,7 +311,7 @@ Learn → Build → Ship → Improve.
 
 </div>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 08 ⟩ QUOTE OF THE DAY
 
@@ -321,7 +323,7 @@ Learn → Build → Ship → Improve.
 
 </p>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 09 ⟩ CERTIFICATIONS
 
@@ -348,14 +350,14 @@ Learn → Build → Ship → Improve.
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 10 ⟩ ENGINEERING ACTIVITIES
 
 **SENSONICS 2024** — Presented an ESP32-based IoT Home Automation system, Kongu Engineering College
 **SHAASTRA 2025** — Raspberry Pi IoT Automation Workshop, IIT Madras
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 11 ⟩ EDUCATION
 
@@ -369,7 +371,7 @@ Higher Secondary · `83%`
 
 </div>
 
----
+<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 <div align="center">
 
