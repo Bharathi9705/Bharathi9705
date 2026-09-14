@@ -39,6 +39,10 @@ SIGNAL  →  SYSTEM  →  CODE  →  INTELLIGENCE  →  PRODUCT
 
 > Trained to read signals. Built to ship systems.
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1500&color=8B5CF6&center=true&vCenter=true&width=500&lines=full-stack+%7C+backend+%7C+AI;ECE+foundation%2C+software-focused" alt="identity strip" />
+</p>
+
 I'm a final-year Electronics & Communication Engineering student who ended up on the software side of things — building full-stack products, wiring backend systems together, and shipping AI-integrated applications that actually run in production, not just in a notebook. My ECE background shows up in how I think about software: as systems with failure modes, not just features.
 
 <table>
@@ -56,12 +60,16 @@ STATUS      → Preparing for SWE roles
 ──────────────────────────────────────────
 ```
 
+<p align="center"><img src="assets/cursor.svg" width="8" height="14" /></p>
+
 </td></tr>
 </table>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 02 ⟩ TECH ARSENAL
+
+<p align="center"><img src="https://tech-stack.wontory.dev/api/orbit?text=STACK&slugs=java,python,javascript,react,nextdotjs,nodedotjs,flask,fastapi,mysql,firebase" width="320" /></p>
 
 <table>
 <tr>
@@ -276,9 +284,7 @@ Keyboard-driven notes workspace with a premium dark UI — single-file frontend,
 
 ## ⟨ 06 ⟩ ENGINEERING IDENTITY
 
-```
-ECE  →  Networking  →  Backend  →  Full-Stack  →  AI  →  Products
-```
+<p align="center"><img src="assets/id-flow.svg" width="700" /></p>
 
 I don't just learn technologies — I build systems with them. The dual-WAN router isn't a tutorial project; it's a networking problem (my ECE core) solved with a backend service, a prediction model, and a live dashboard — the exact same pipeline that turns into a full-stack product when the domain changes from packets to people.
 
@@ -286,13 +292,9 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 
 ## ⟨ 06.5 ⟩ ENGINEERING MINDSET
 
-```
-Build. Break. Fix. Repeat.
-Every bug is just feedback with worse timing.
-Small, working systems beat big, broken plans.
-Ship the version that exists, not the one in your head.
-Learn → Build → Ship → Improve.
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&pause=1400&color=00E5FF&center=true&vCenter=true&width=650&lines=Build.+Break.+Fix.+Repeat.;Every+bug+is+just+feedback+with+worse+timing.;Small%2C+working+systems+beat+big%2C+broken+plans.;Ship+the+version+that+exists%2C+not+the+one+in+your+head.;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve." alt="Engineering Mindset" />
+</p>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
