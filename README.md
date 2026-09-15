@@ -84,6 +84,45 @@ STATUS      → Preparing for SWE roles
 </td></tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+
+**CURRENTLY BUILDING**
+Full-Stack Apps
+AI Applications
+Backend Systems
+
+</td>
+<td width="50%">
+
+**CURRENTLY LEARNING**
+Advanced Java
+DSA
+System Design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**SOFTWARE**
+React · Flask
+Node · FastAPI
+Firebase
+
+</td>
+<td width="50%">
+
+**ECE / HARDWARE**
+ESP32
+Raspberry Pi
+IoT
+
+</td>
+</tr>
+</table>
+
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 02 ⟩ TECH ARSENAL
