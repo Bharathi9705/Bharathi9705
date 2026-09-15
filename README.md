@@ -369,8 +369,6 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 
 <img src="https://streak-stats.demolab.com/?user=Bharathi9705&theme=tokyonight&hide_border=true&background=0A0E17&stroke=8B5CF6&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi9705&theme=tokyo-night&hide_border=true&bg_color=0A0E17&color=00E5FF&line=8B5CF6&point=C4B5FD" />
-
 ![Snake animation](https://raw.githubusercontent.com/Bharathi9705/Bharathi9705/output/github-contribution-grid-snake-dark.svg)
 
 </div>
