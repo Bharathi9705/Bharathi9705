@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350.0" y="81.0" text-anchor="middle"
+  <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">Success seems to be connected to action.</tspan><tspan x="350.0" dy="30">Successful people keep moving. They make</tspan><tspan x="350.0" dy="30">mistakes, but they don't quit.</tspan>
+    <tspan x="350.0" dy="0">Don't let the noise of others' opinions drown</tspan><tspan x="350.0" dy="30">out your own inner voice.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Conrad Hilton
+    — Steve Jobs
   </text>
 </svg>
