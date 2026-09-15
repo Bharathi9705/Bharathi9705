@@ -1,0 +1,36 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # daily at 4:00 UTC (9:30 AM IST)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats (dark, themed)
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: Bharathi9705
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/streak.svg
+          theme: dark
+          hide-border: true
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "🔥 Update streak stats"
+            git push
+          else
+            echo "No changes to commit."
+          fi
