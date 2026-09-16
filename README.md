@@ -372,49 +372,19 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 
 ## ⟨ 09 ⟩ CERTIFICATIONS
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Cisco Networking**
-<sub>Introduction to Networks<br>Switching, Routing & Wireless<br>Enterprise Networking, Security & Authentication</sub>
-
-</td>
-<td valign="top" width="33%">
-
-**Infosys Springboard**
-<sub>Java · DBMS · Python<br>NoSQL<br>Software Engineering & Agile</sub>
-
-</td>
-<td valign="top" width="33%">
-
-**NPTEL**
-<sub>Ethical Engineering Practices<br>Soft Skills</sub>
-
-</td>
-</tr>
-</table>
+<p align="center"><img src="assets/certs-card.svg" width="700" /></p>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 10 ⟩ ENGINEERING ACTIVITIES
 
-**SENSONICS 2024** — Presented an ESP32-based IoT Home Automation system, Kongu Engineering College
-**SHAASTRA 2025** — Raspberry Pi IoT Automation Workshop, IIT Madras
+<p align="center"><img src="assets/activities-card.svg" width="700" /></p>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
 ## ⟨ 11 ⟩ EDUCATION
 
-<div align="center">
-
-**B.E. Electronics & Communication Engineering**
-Sri Krishna College of Engineering and Technology, Coimbatore
-`2023 — 2027` · `CGPA: 8.05 / 10`
-
-Higher Secondary · `83%`
-
-</div>
+<p align="center"><img src="assets/education-card.svg" width="700" /></p>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
