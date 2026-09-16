@@ -4,17 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Open+to+Work;Aspiring+Full-Stack+Developer;Aspiring+AI+Developer" alt="Typing SVG" />
 
-<br>
-
 <img src="assets/status-dot.svg" width="10" height="10" /> &nbsp;<b>OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</b>
 
 <sub>Full-Stack · Backend · AI · Systems</sub>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=PROFILE%20VIEWS&color=0D1117&style=for-the-badge" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/Bharathi9705"><img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://www.linkedin.com/in/bharathi-a-91543b290/"><img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
