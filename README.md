@@ -364,8 +364,8 @@ I don't just learn technologies — I build systems with them. The dual-WAN rout
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bharathi9705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&icon_color=8B5CF6&text_color=C4B5FD" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi9705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=C4B5FD" height="165" />
+<img src="assets/stats.svg" height="165" />
+<img src="assets/top-langs.svg" height="165" />
 
 <img src="assets/streak.svg" />
 
