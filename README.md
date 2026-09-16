@@ -35,22 +35,7 @@ SIGNAL  →  SYSTEM  →  CODE  →  INTELLIGENCE  →  PRODUCT
 
 <br>
 
-<table><tr><td>
-
-```
-●  ●  ●
-
-$ whoami
-Bharathi A — final-year ECE student, software-focused
-
-$ current_focus
-Full-Stack + Backend + AI Systems
-
-$ status
-Building → Learning → Shipping
-```
-<p align="center"><img src="assets/cursor.svg" width="8" height="14" /></p>
-</td></tr></table>
+<p align="center"><img src="assets/terminal.svg" width="600" /></p>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
