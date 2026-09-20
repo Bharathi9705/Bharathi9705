@@ -213,28 +213,28 @@ IoT
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
-<p align="center"><img src="assets/proj-spotlight-dualwan.svg" width="700" /></p>
-
-<p align="center">
-<a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source_Code-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-</p>
-
-<br>
-
-<p align="center"><img src="assets/proj-neuro-os.svg" width="700" /></p>
-
-<p align="center">
-<a href="https://github.com/Bharathi9705/neuro-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0A0E17?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
-</p>
-
-<br>
-
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="assets/compact-library.svg" width="340" />
+<img src="assets/compact-dualwan.svg" width="100%" />
+
+<a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
+
+</td>
+<td width="50%" align="center">
+
+<img src="assets/compact-neuro-os.svg" width="100%" />
+
+<a href="https://github.com/Bharathi9705/neuro-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
+<a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=vercel&logoColor=00E5FF" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="assets/compact-library.svg" width="100%" />
 
 <a href="https://github.com/Bharathi9705/skcet-library-management"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
 <a href="https://skcet-library-management.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=render&logoColor=00E5FF" /></a>
@@ -242,7 +242,7 @@ IoT
 </td>
 <td width="50%" align="center">
 
-<img src="assets/compact-hrms.svg" width="340" />
+<img src="assets/compact-hrms.svg" width="100%" />
 
 <a href="https://github.com/Bharathi9705/modern-hrms-flask"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
 <a href="https://modern-hrms-flask.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=render&logoColor=00E5FF" /></a>
@@ -252,7 +252,7 @@ IoT
 <tr>
 <td width="50%" align="center">
 
-<img src="assets/compact-flowt.svg" width="340" />
+<img src="assets/compact-flowt.svg" width="100%" />
 
 <a href="https://github.com/Bharathi9705/flowt-finance-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
 <a href="https://bharathi9705.github.io/flowt-finance-os-/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=githubpages&logoColor=00E5FF" /></a>
@@ -260,7 +260,7 @@ IoT
 </td>
 <td width="50%" align="center">
 
-<img src="assets/compact-notestack.svg" width="340" />
+<img src="assets/compact-notestack.svg" width="100%" />
 
 <a href="https://github.com/Bharathi9705/notestack"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
 
