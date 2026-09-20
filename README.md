@@ -213,117 +213,60 @@ IoT
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
-<div align="center">
+<p align="center"><img src="assets/proj-spotlight-dualwan.svg" width="700" /></p>
 
-<sub>⭐ PROJECT SPOTLIGHT</sub>
-
-### AI-Powered Predictive Dual-WAN Failover Router
-
-Predicting network degradation *before* failure, and dynamically switching WAN connections to keep systems online.
-
-`Raspberry Pi 5` `Python` `FastAPI` `TOPSIS` `LSTM`
-
+<p align="center">
 <a href="https://github.com/Bharathi9705/dual-wan-failover"><img src="https://img.shields.io/badge/Source_Code-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-
-</div>
-
-<p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
+</p>
 
 <br>
 
-<table><tr><td>
-<br>
+<p align="center"><img src="assets/proj-neuro-os.svg" width="700" /></p>
 
-<img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=0A0E17" />
-
-### NEURO-OS
-
-Full-stack AI chat platform powered by Groq's LLaMA 3.3 70B, with AI image generation, authentication, file analysis, chat history, and export.
-
-`TypeScript` `FastAPI` `Groq LLaMA` `AI Image Gen`
-
+<p align="center">
 <a href="https://github.com/Bharathi9705/neuro-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=vercel&logoColor=8B5CF6" /></a>
-
-<br>
-</td></tr></table>
-
-<br>
-
-<table><tr><td>
-<br>
-
-<img src="https://img.shields.io/badge/FULL--STACK-EC4899?style=flat-square&labelColor=0A0E17" />
-
-### SKCET LIBRARY MANAGEMENT SYSTEM
-
-Role-based platform (Admin, Librarian, Student) handling 150+ books, issue/return workflows, fine calculation, dashboards, and reports, with dark mode.
-
-`Node.js` `Express.js` `MySQL`
-
-<a href="https://github.com/Bharathi9705/skcet-library-management"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://skcet-library-management.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=render&logoColor=8B5CF6" /></a>
-
-<br>
-</td></tr></table>
+<a href="https://neuro-os-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0A0E17?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+</p>
 
 <br>
 
-<table><tr><td>
-<br>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/BACKEND-8B5CF6?style=flat-square&labelColor=0A0E17" />
+<img src="assets/proj-library.svg" width="340" />
 
-### MODERN HRMS
+<a href="https://github.com/Bharathi9705/skcet-library-management"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
+<a href="https://skcet-library-management.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=render&logoColor=00E5FF" /></a>
 
-Employee lifecycle management system with attendance, leave workflows, employee records, and REST APIs, styled with Tailwind CSS and Chart.js.
+</td>
+<td width="50%" align="center">
 
-`Flask` `SQLite` `JWT` `Tailwind` `Chart.js`
+<img src="assets/proj-hrms.svg" width="340" />
 
-<a href="https://github.com/Bharathi9705/modern-hrms-flask"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://modern-hrms-flask.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=render&logoColor=8B5CF6" /></a>
+<a href="https://github.com/Bharathi9705/modern-hrms-flask"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
+<a href="https://modern-hrms-flask.onrender.com/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=render&logoColor=00E5FF" /></a>
 
-<br>
-</td></tr></table>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-<br>
+<img src="assets/proj-flowt.svg" width="340" />
 
-<table><tr><td>
-<br>
+<a href="https://github.com/Bharathi9705/flowt-finance-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
+<a href="https://bharathi9705.github.io/flowt-finance-os-/"><img src="https://img.shields.io/badge/Live-0A0E17?style=flat-square&logo=githubpages&logoColor=00E5FF" /></a>
 
-<img src="https://img.shields.io/badge/FINTECH-00E5FF?style=flat-square&labelColor=0A0E17" />
+</td>
+<td width="50%" align="center">
 
-### FLOWT FINANCE OS
+<img src="assets/proj-notestack.svg" width="340" />
 
-Personal finance system with expense tracking, budgeting, savings goals, recurring transactions, analytics, and reports, synced live via Firestore.
+<a href="https://github.com/Bharathi9705/notestack"><img src="https://img.shields.io/badge/Source-0A0E17?style=flat-square&logo=github&logoColor=00E5FF" /></a>
 
-`JavaScript` `Firebase` `Firestore`
-
-<a href="https://github.com/Bharathi9705/flowt-finance-os"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://bharathi9705.github.io/flowt-finance-os-/"><img src="https://img.shields.io/badge/Live-0A0E17?style=for-the-badge&logo=githubpages&logoColor=8B5CF6" /></a>
-
-<br>
-</td></tr></table>
-
-<br>
-
-<table><tr><td>
-<br>
-
-<img src="https://img.shields.io/badge/PRODUCTIVITY-8B5CF6?style=flat-square&labelColor=0A0E17" />
-
-### NOTESTACK
-
-Keyboard-driven notes workspace with a premium dark UI — single-file frontend, zero build tools, backed by a Flask REST API.
-
-`Flask` `REST API`
-
-<a href="https://github.com/Bharathi9705/notestack"><img src="https://img.shields.io/badge/Source-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-
-<br>
-</td></tr></table>
-
-<br>
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
