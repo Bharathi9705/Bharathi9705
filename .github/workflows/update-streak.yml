@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Bharathi9705"
+          git config user.email "bharathi20061882@gmail.com"
           git add assets/streak.svg
           if ! git diff --cached --quiet; then
             git commit -m "🔥 Update streak stats"
