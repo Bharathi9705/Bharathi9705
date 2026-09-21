@@ -18,12 +18,12 @@
   <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">You know the more one does the more one can</tspan><tspan x="350.0" dy="30">do.</tspan>
+    <tspan x="350.0" dy="0">We must accept finite disappointment, but</tspan><tspan x="350.0" dy="30">never lose infinite hope.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Amelia Earhart
+    — Martin Luther King, Jr.
   </text>
 </svg>
