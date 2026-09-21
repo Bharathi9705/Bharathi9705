@@ -213,7 +213,7 @@ IoT
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center" valign="top">
 
