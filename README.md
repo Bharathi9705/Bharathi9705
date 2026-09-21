@@ -213,7 +213,9 @@ IoT
 
 ## ⟨ 05 ⟩ FEATURED PROJECTS
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+
+<table width="640" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -250,6 +252,8 @@ IoT
 </td>
 </tr>
 </table>
+
+</div>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="700" height="6" /></p>
 
