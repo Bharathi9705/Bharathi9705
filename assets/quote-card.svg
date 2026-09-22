@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350.0" y="111.0" text-anchor="middle"
+  <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">Strategy is a commodity, execution is an art.</tspan>
+    <tspan x="350.0" dy="0">What do we live for, if it is not to make life</tspan><tspan x="350.0" dy="30">less difficult for each other?</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Peter Drucker
+    — George Eliot
   </text>
 </svg>
