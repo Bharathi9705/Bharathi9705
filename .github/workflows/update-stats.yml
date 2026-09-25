@@ -37,7 +37,7 @@ jobs:
           git add assets/stats.svg assets/top-langs.svg
           if ! git diff --cached --quiet; then
             git commit -m "📊 Update stats cards"
-            git push
+            git pull --rebase origin main && git push
           else
             echo "No changes to commit."
           fi
