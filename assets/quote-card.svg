@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350.0" y="111.0" text-anchor="middle"
+  <text x="350.0" y="81.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">The greatest miracle is to be alive.</tspan>
+    <tspan x="350.0" dy="0">My favorite things in life don't cost any</tspan><tspan x="350.0" dy="30">money. It's really clear that the most</tspan><tspan x="350.0" dy="30">precious resource we all have is time.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Thich Nhat Hanh
+    — Steve Jobs
   </text>
 </svg>
