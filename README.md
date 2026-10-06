@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Bharathi9705?style=for-the-badge&color=0D1117&label=FOLLOWERS" />
+<img src="https://hits.sh/github.com/Bharathi9705.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0D1117&labelColor=0D1117&extraCount=404" />
 
 <br>
 
