@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://hits.sh/github.com/Bharathi9705.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00E5FF&labelColor=444D56&extraCount=404" />
+<img src="https://hits.sh/github.com/Bharathi9705.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=22C55E&labelColor=444D56&extraCount=404" />
 
 <br>
 
