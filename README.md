@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Bharathi9705?style=for-the-badge&color=0D1117&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=Bharathi9705&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <br>
 
