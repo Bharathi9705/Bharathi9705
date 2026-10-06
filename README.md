@@ -10,15 +10,15 @@
 
 <br>
 
-<img src="https://hits.sh/github.com/Bharathi9705.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0D1117&labelColor=0D1117&extraCount=404" />
+<img src="https://hits.sh/github.com/Bharathi9705.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00E5FF&labelColor=444D56&extraCount=404" />
 
 <br>
 
-<a href="https://github.com/Bharathi9705"><img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/bharathi-a-91543b290/"><img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-<a href="https://bharathi9705.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0E17?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
-<a href="https://leetcode.com/u/BharathiArumugam/"><img src="https://img.shields.io/badge/LeetCode-0A0E17?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharathi20061882@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bharathi-a-91543b290/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Bharathi9705"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/BharathiArumugam/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://bharathi9705.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
