@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350.0" y="96.0" text-anchor="middle"
+  <text x="350.0" y="81.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">We are all in the gutter, but some of us are</tspan><tspan x="350.0" dy="30">looking at the stars.</tspan>
+    <tspan x="350.0" dy="0">Determine never to be idle. No person will</tspan><tspan x="350.0" dy="30">have occasion to complain of the want of time</tspan><tspan x="350.0" dy="30">who never loses any.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Oscar Wilde
+    — Thomas Jefferson
   </text>
 </svg>
