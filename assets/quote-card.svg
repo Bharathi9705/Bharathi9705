@@ -15,15 +15,15 @@
   <rect x="18" y="18" width="664" height="164" rx="18"
         fill="#ffffff" fill-opacity="0.06" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <text x="350.0" y="111.0" text-anchor="middle"
+  <text x="350.0" y="66.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">You will succeed because most people are lazy.</tspan>
+    <tspan x="350.0" dy="0">I discovered a long time ago that if I helped</tspan><tspan x="350.0" dy="30">enough people get what they wanted, I would</tspan><tspan x="350.0" dy="30">always get what I wanted and I would never</tspan><tspan x="350.0" dy="30">have to worry.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Shahir Zag
+    — Tony Robbins
   </text>
 </svg>
