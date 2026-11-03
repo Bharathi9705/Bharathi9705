@@ -18,12 +18,12 @@
   <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">First learn the meaning of what you say, and</tspan><tspan x="350.0" dy="30">then speak.</tspan>
+    <tspan x="350.0" dy="0">Beware of false knowledge, it is more</tspan><tspan x="350.0" dy="30">dangerous than ignorance.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Epictetus
+    — George Bernard Shaw
   </text>
 </svg>
