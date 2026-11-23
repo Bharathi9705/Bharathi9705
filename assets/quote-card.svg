@@ -18,12 +18,12 @@
   <text x="350.0" y="96.0" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600"
         fill="#E0F7FF">
-    <tspan x="350.0" dy="0">If you cannot understand something, then you</tspan><tspan x="350.0" dy="30">have understood it incorrectly.</tspan>
+    <tspan x="350.0" dy="0">It is the mark of an educated mind to be able</tspan><tspan x="350.0" dy="30">to entertain a thought without accepting it.</tspan>
   </text>
 
   <text x="350.0" y="172" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="500"
         fill="#C4B5FD">
-    — Kabir
+    — Aristotle
   </text>
 </svg>
